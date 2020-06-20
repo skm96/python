@@ -1,3 +1,4 @@
-# python
-Text based To Do List in python
-you can improve it :-)
+# To Do List in python
+basic function and function 
+
+
